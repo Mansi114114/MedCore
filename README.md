@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0072FF&height=120&section=header&text=MedCore&fontSize=30&fontColor=ffffff"/>
-
 <h2 align="center">🏥 MedCore</h2>
 <p align="center"><b>🚀 Multi-Dashboard Hospital Management System</b></p>
 
