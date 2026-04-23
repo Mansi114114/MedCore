@@ -1,17 +1,3 @@
-<h2 align="center">🏥 MedCore</h2>
-<p align="center"><b>🚀 Multi-Dashboard Hospital Management System</b></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=450&height=40&lines=Admin+Dashboard;Doctor+Dashboard;Patient+Dashboard">
-</p>
-
-<p align="center">
-  <a href="https://16.170.208.202/register.php">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Now-00C853?style=for-the-badge">
-  </a>
-</p>
-
-
 <h1 align="center">🏥 MedCore</h1>
 <h3 align="center">🚀 Multi-Dashboard Hospital Management System</h3>
 
