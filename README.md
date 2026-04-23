@@ -1,58 +1,45 @@
 <h1 align="center">🏥 MedCore</h1>
-<h3 align="center">🚀 Hospital Management System</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hospital+Management+System;Built+with+PHP+%26+MySQL;MedCore+Project&center=true&width=500&height=50">
+  <b>🚀 Smart Hospital Management System</b>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=Manage+Patients+Easily;Doctor+Dashboard+System;Appointments+Made+Simple;Built+with+PHP+%26+MySQL">
+</p>
+
+---
 
 <p align="center">
   <a href="https://16.170.208.202/register.php">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-Click Here-brightgreen?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Now-00C853?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Mansi114114/MedCore?style=social">
-  <img src="https://img.shields.io/github/forks/Mansi114114/MedCore?style=social">
-  <img src="https://img.shields.io/github/issues/Mansi114114/MedCore">
-  <img src="https://img.shields.io/github/license/Mansi114114/MedCore">
-</p>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-Backend-blue?style=flat&logo=php">
-  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat&logo=mysql">
-  <img src="https://img.shields.io/badge/XAMPP-Server-red?style=flat">
+  <img src="https://img.shields.io/github/stars/Mansi114114/MedCore?color=yellow&style=flat-square">
+  <img src="https://img.shields.io/github/forks/Mansi114114/MedCore?color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/issues/Mansi114114/MedCore?color=red&style=flat-square">
 </p>
 
 ---
 
-## 🧠 About Project
+## ✨ Project Highlights
 
-MedCore is a **web-based Hospital Management System** built using PHP and MySQL.
-It helps manage hospital operations like patients, doctors, appointments, and records efficiently.
-
----
-
-## 🌐 Live Demo
-
-👉 https://16.170.208.202/register.php
+* 🧑‍⚕️ Manage Patients & Doctors
+* 📅 Smart Appointment System
+* 📊 Admin Dashboard
+* 📁 Medical Records
+* 🔐 Secure Login System
 
 ---
 
-## ✨ Features
-
-* 🚑 Patient Management
-* 👨‍⚕️ Doctor Dashboard
-* 📅 Appointment Scheduling
-* 📊 Admin Panel
-* 📁 Medical History Tracking
-
----
-
-## 🎨 UI Preview
+## 🎨 Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="85%">
+  <img src="screenshots/dashboard.png" width="90%">
 </p>
 
 ---
@@ -65,56 +52,39 @@ It helps manage hospital operations like patients, doctors, appointments, and re
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi114114&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi114114&theme=tokyonight">
-</p>
-
----
-
-## 🚀 Installation
+## 🚀 Run Locally
 
 ```bash
 git clone https://github.com/Mansi114114/MedCore.git
 ```
 
-### Move project to XAMPP:
-
-```
+```bash
+Move to:
 C:\xampp\htdocs\
 ```
 
-### Import database:
-
-* Open phpMyAdmin
-* Create database
-* Import `.sql` file
-
-### Run project:
-
+```bash
+Import database in phpMyAdmin
 ```
+
+```bash
+Run:
 http://localhost/MedCore
 ```
 
 ---
 
-## 🔮 Future Enhancements
+## 👩‍💻 Developer
 
-* 💳 Online Payment Integration
-* 🤖 AI-based Health Suggestions
-* 📱 Mobile Application
-
----
-
-## 👩‍💻 Author
-
-**Mansi Mishra**
-🎓 B.Tech CSE Student
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="80"><br>
+  <b>Mansi Mishra</b><br>
+  🎓 B.Tech CSE
+</p>
 
 ---
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, give it a ⭐
+It helps a lot!
