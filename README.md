@@ -1,46 +1,79 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0072FF&height=200&section=header&text=MedCore&fontSize=40&fontColor=ffffff"/>
+
 <h1 align="center">🏥 MedCore</h1>
-
-<p align="center">
-  <b>🚀 Smart Hospital Management System</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=500&lines=Manage+Patients+Easily;Doctor+Dashboard+System;Appointments+Made+Simple;Built+with+PHP+%26+MySQL">
-</p>
+<h3 align="center">🚀 Multi-Dashboard Hospital Management System</h3>
 
 ---
 
 <p align="center">
   <a href="https://16.170.208.202/register.php">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Now-00C853?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Now-00C853?style=for-the-badge">
   </a>
 </p>
 
 ---
 
+## 🧠 About Project
+
+MedCore is a **web-based Hospital Management System** designed with a **multi-role architecture**.
+
+The system provides **three separate dashboards** for different users:
+
+* 👩‍💼 **Admin Dashboard**
+* 👨‍⚕️ **Doctor Dashboard**
+* 🧑‍🤝‍🧑 **Patient Dashboard**
+
+Each dashboard is customized for its role, ensuring efficient hospital workflow management.
+
+---
+
+## 🎯 Dashboards Overview
+
+### 👩‍💼 Admin Dashboard
+
+* Manage doctors and patients
+* View system analytics
+* Handle pending requests
+* Monitor appointments
+
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Mansi114114/MedCore?color=yellow&style=flat-square">
-  <img src="https://img.shields.io/github/forks/Mansi114114/MedCore?color=blue&style=flat-square">
-  <img src="https://img.shields.io/github/issues/Mansi114114/MedCore?color=red&style=flat-square">
+  <img src="screenshots/admin.png" width="80%">
 </p>
 
 ---
 
-## ✨ Project Highlights
+### 👨‍⚕️ Doctor Dashboard
 
-* 🧑‍⚕️ Manage Patients & Doctors
-* 📅 Smart Appointment System
-* 📊 Admin Dashboard
-* 📁 Medical Records
-* 🔐 Secure Login System
+* View assigned patients
+* Check appointment schedule
+* Maintain consultation history
+
+<p align="center">
+  <img src="screenshots/Doctor.png" width="80%">
+</p>
 
 ---
 
-## 🎨 Preview
+### 🧑‍🤝‍🧑 Patient Dashboard
+
+* Register & login
+* Book appointments
+* View medical history
+* Update profile
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="90%">
+  <img src="screenshots/patient.png" width="80%">
 </p>
+
+---
+
+## ✨ Key Features
+
+* 🔐 Role-Based Authentication
+* 📅 Appointment Management
+* 📊 Dashboard Insights
+* 📁 Medical Records System
+* ⚡ Fast & Simple UI
 
 ---
 
@@ -52,39 +85,41 @@
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/Mansi114114/MedCore.git
 ```
 
-```bash
 Move to:
+
+```
 C:\xampp\htdocs\
 ```
 
-```bash
-Import database in phpMyAdmin
-```
+Import database using phpMyAdmin
 
-```bash
 Run:
+
+```
 http://localhost/MedCore
 ```
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://16.170.208.202/register.php
+
+---
+
 ## 👩‍💻 Developer
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="80"><br>
-  <b>Mansi Mishra</b><br>
-  🎓 B.Tech CSE
-</p>
+**Mansi Mishra**
+🎓 B.Tech CSE Student
 
 ---
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐
-It helps a lot!
+If you like this project, give it a ⭐ on GitHub!
