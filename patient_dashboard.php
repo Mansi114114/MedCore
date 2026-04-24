@@ -49,18 +49,6 @@ if (isset($_POST['book_now'])) {
 }
 $username = $_SESSION['user'];
 $msg = "";
-
-// Handle New Booking
-if (isset($_POST['book_now'])) {
-    $p_name = mysqli_real_escape_string($conn, $username);
-    $doc    = mysqli_real_escape_string($conn, $_POST['doctor']);
-    $date   = mysqli_real_escape_string($conn, $_POST['date']);
-    $time   = mysqli_real_escape_string($conn, $_POST['time']);
-
-    $sql = "INSERT INTO appointments (patient_name, doctor_name, appt_date, appt_time, status) 
-            VALUES ('$p_name', '$doc', '$date', '$time', 'Pending')";
-
-}
 ?>
 <!DOCTYPE html>
 <html lang="en">
