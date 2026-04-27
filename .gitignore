@@ -4,3 +4,4 @@
 *.log
 Thumbs.db
 .vscode
+db.php
